@@ -4,6 +4,13 @@
 
 ---
 
+## My Arch Setup  
+
+<p align="center">
+  <img src="/2025-09-15_16-30-58_grim.png" alt="Arch Linux Desktop" width="800"/>
+</p>
+
+
 ## Tech Stack  
 
 ### Linux & DevOps  
