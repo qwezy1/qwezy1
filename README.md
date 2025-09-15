@@ -1,8 +1,7 @@
 
----
 
-### I 
-- [GitHub профиль](https://github.com/qwezy1)
+# I 
+- [GitHub](https://github.com/qwezy1)
 
 ---
 
@@ -37,14 +36,6 @@
 ####  CMS
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" width="40" alt="Strapi"/>
-</p>
-
----
-
-###  GitHub статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
