@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C853&center=true&vCenter=true&width=600&lines=Привет!+Я+разработчик+%F0%9F%91%8B;Backend+%7C+DevOps+%7C+Frontend;Люблю+Linux+и+open-source" />
-</p>
-
 ---
 
 ### I 
