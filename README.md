@@ -10,6 +10,25 @@
   <img src="/2025-09-15_16-30-58_grim.png" alt="Arch Linux Desktop" width="800"/>
 </p>
 
+```
+         _nnnn_
+        dGGGGMMb
+       @p~qp~~qMb
+       M|@||@) M|
+       @,----.JM|
+      JS^\__/  qKL
+     dZP        qKRb
+    dZP          qKKb
+   fZP            SMMb
+   HZM            MMMM
+   FqM            MMMM
+ __| ".        |\dS"qML
+ |    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMP|   .'
+     `-'       `--' 
+```
+
 ---
 
 ## Tech Stack  
